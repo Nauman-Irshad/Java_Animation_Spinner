@@ -11,3 +11,7 @@ ____________________________________________________________________________
 - Handles media playback errors gracefully.
 
 <img width="210" alt="Screenshot 2025-01-11 at 9 13 10 PM" src="https://github.com/user-attachments/assets/45f81f78-d0a8-4e20-938e-2e2484be1991" />
+
+
+Uploading Screen Recording 2025-01-11 at 9.04.41 PM.mov…
+
